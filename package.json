@@ -1,0 +1,49 @@
+{
+  "name": "ice-cream-app",
+  "version": "1.0.0",
+  "description": "project for ice cream",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js --exec babel-node"
+  },
+  "author": "juanfer and orlas",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.13.1",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "express-jade": "^0.0.3",
+    "fs-extra": "^9.0.0",
+    "graphql": "^15.0.0",
+    "graphql-import": "^1.0.2",
+    "graphql-import-loader": "^0.2.1",
+    "graphql-tools": "^5.0.0",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.14",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4",
+    "rimraf": "^3.0.2",
+    "serve-favicon": "^2.5.0",
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.6",
+    "@types/cors": "^2.8.6",
+    "@types/express": "^4.17.6",
+    "@types/fs-extra": "^9.0.0",
+    "@types/mongoose": "^5.7.20",
+    "@types/morgan": "^1.9.0",
+    "@types/multer": "^1.4.3",
+    "@types/node": "^14.0.1",
+    "@types/uuid": "^7.0.3"
+  }
+}

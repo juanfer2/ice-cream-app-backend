@@ -1,0 +1,9 @@
+#clients
+# type MyUserType {
+#     _id: ID,
+#     name: String,
+#     last_name: String,
+#     company: String,
+#     age: Int,
+# }
+

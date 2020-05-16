@@ -1,0 +1,10 @@
+type Query {
+    _: String
+    hello: String,
+    greet(name: String): String
+    helloUser: String
+    greetUser(name: String): String
+} 
+
+# type Mutation {
+# }
