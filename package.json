@@ -9,7 +9,7 @@
   "author": "juanfer and orlas",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^2.13.1",
+    "apollo-server-express": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^4.5.0",
     "cors": "^2.8.5",
