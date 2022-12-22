@@ -22,7 +22,7 @@
     "graphql-import-loader": "^0.2.1",
     "graphql-tools": "^5.0.0",
     "jade": "^1.11.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.14",
     "morgan": "^1.10.0",
     "multer": "^1.4.2",
